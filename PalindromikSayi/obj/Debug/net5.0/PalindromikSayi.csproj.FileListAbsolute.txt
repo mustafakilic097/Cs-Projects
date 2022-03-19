@@ -1,0 +1,16 @@
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\obj\Debug\net5.0\PalindromikSayi.csproj.AssemblyReference.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\obj\Debug\net5.0\PalindromikSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\obj\Debug\net5.0\PalindromikSayi.AssemblyInfoInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\obj\Debug\net5.0\PalindromikSayi.AssemblyInfo.cs
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\obj\Debug\net5.0\PalindromikSayi.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\bin\Debug\net5.0\PalindromikSayi.exe
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\bin\Debug\net5.0\PalindromikSayi.deps.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\bin\Debug\net5.0\PalindromikSayi.runtimeconfig.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\bin\Debug\net5.0\PalindromikSayi.runtimeconfig.dev.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\bin\Debug\net5.0\PalindromikSayi.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\bin\Debug\net5.0\PalindromikSayi.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\obj\Debug\net5.0\PalindromikSayi.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\obj\Debug\net5.0\refint\PalindromikSayi.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\obj\Debug\net5.0\PalindromikSayi.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\obj\Debug\net5.0\PalindromikSayi.genruntimeconfig.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\PalindromikSayi\obj\Debug\net5.0\ref\PalindromikSayi.dll
