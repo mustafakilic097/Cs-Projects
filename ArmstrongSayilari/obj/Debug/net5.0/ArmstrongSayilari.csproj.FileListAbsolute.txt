@@ -1,0 +1,16 @@
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\bin\Debug\net5.0\ArmstrongSayilari.exe
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\bin\Debug\net5.0\ArmstrongSayilari.deps.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\bin\Debug\net5.0\ArmstrongSayilari.runtimeconfig.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\bin\Debug\net5.0\ArmstrongSayilari.runtimeconfig.dev.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\bin\Debug\net5.0\ArmstrongSayilari.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\bin\Debug\net5.0\ArmstrongSayilari.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\obj\Debug\net5.0\ArmstrongSayilari.csproj.AssemblyReference.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\obj\Debug\net5.0\ArmstrongSayilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\obj\Debug\net5.0\ArmstrongSayilari.AssemblyInfoInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\obj\Debug\net5.0\ArmstrongSayilari.AssemblyInfo.cs
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\obj\Debug\net5.0\ArmstrongSayilari.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\obj\Debug\net5.0\ArmstrongSayilari.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\obj\Debug\net5.0\refint\ArmstrongSayilari.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\obj\Debug\net5.0\ArmstrongSayilari.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\obj\Debug\net5.0\ArmstrongSayilari.genruntimeconfig.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\ArmstrongSayilari\obj\Debug\net5.0\ref\ArmstrongSayilari.dll
