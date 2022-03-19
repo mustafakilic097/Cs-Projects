@@ -1,0 +1,16 @@
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\bin\Debug\net5.0\MiniProjeler.exe
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\bin\Debug\net5.0\MiniProjeler.deps.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\bin\Debug\net5.0\MiniProjeler.runtimeconfig.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\bin\Debug\net5.0\MiniProjeler.runtimeconfig.dev.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\bin\Debug\net5.0\MiniProjeler.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\bin\Debug\net5.0\MiniProjeler.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\obj\Debug\net5.0\MiniProjeler.csproj.AssemblyReference.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\obj\Debug\net5.0\MiniProjeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\obj\Debug\net5.0\MiniProjeler.AssemblyInfoInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\obj\Debug\net5.0\MiniProjeler.AssemblyInfo.cs
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\obj\Debug\net5.0\MiniProjeler.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\obj\Debug\net5.0\MiniProjeler.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\obj\Debug\net5.0\refint\MiniProjeler.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\obj\Debug\net5.0\MiniProjeler.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\obj\Debug\net5.0\MiniProjeler.genruntimeconfig.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\MiniProjeler\obj\Debug\net5.0\ref\MiniProjeler.dll
