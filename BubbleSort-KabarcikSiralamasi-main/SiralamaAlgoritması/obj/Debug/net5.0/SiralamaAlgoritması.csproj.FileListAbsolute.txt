@@ -1,0 +1,16 @@
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\bin\Debug\net5.0\SiralamaAlgoritması.exe
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\bin\Debug\net5.0\SiralamaAlgoritması.deps.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\bin\Debug\net5.0\SiralamaAlgoritması.runtimeconfig.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\bin\Debug\net5.0\SiralamaAlgoritması.runtimeconfig.dev.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\bin\Debug\net5.0\SiralamaAlgoritması.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\bin\Debug\net5.0\SiralamaAlgoritması.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\obj\Debug\net5.0\SiralamaAlgoritması.csproj.AssemblyReference.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\obj\Debug\net5.0\SiralamaAlgoritması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\obj\Debug\net5.0\SiralamaAlgoritması.AssemblyInfoInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\obj\Debug\net5.0\SiralamaAlgoritması.AssemblyInfo.cs
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\obj\Debug\net5.0\SiralamaAlgoritması.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\obj\Debug\net5.0\SiralamaAlgoritması.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\obj\Debug\net5.0\refint\SiralamaAlgoritması.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\obj\Debug\net5.0\SiralamaAlgoritması.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\obj\Debug\net5.0\SiralamaAlgoritması.genruntimeconfig.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\SiralamaAlgoritması\obj\Debug\net5.0\ref\SiralamaAlgoritması.dll
