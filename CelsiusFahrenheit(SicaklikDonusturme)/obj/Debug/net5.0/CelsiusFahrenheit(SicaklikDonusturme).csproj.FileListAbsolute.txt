@@ -1,0 +1,16 @@
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\bin\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).exe
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\bin\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).deps.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\bin\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).runtimeconfig.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\bin\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).runtimeconfig.dev.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\bin\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\bin\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\obj\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).csproj.AssemblyReference.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\obj\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\obj\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).AssemblyInfoInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\obj\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).AssemblyInfo.cs
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\obj\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\obj\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\obj\Debug\net5.0\refint\CelsiusFahrenheit(SicaklikDonusturme).dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\obj\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\obj\Debug\net5.0\CelsiusFahrenheit(SicaklikDonusturme).genruntimeconfig.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\CelsiusFahrenheit(SicaklikDonusturme)\obj\Debug\net5.0\ref\CelsiusFahrenheit(SicaklikDonusturme).dll
