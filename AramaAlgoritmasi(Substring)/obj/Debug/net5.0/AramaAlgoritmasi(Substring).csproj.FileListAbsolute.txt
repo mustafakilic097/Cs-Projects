@@ -1,0 +1,16 @@
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\bin\Debug\net5.0\AramaAlgoritmasi(Substring).exe
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\bin\Debug\net5.0\AramaAlgoritmasi(Substring).deps.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\bin\Debug\net5.0\AramaAlgoritmasi(Substring).runtimeconfig.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\bin\Debug\net5.0\AramaAlgoritmasi(Substring).runtimeconfig.dev.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\bin\Debug\net5.0\AramaAlgoritmasi(Substring).dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\bin\Debug\net5.0\AramaAlgoritmasi(Substring).pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\obj\Debug\net5.0\AramaAlgoritmasi(Substring).csproj.AssemblyReference.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\obj\Debug\net5.0\AramaAlgoritmasi(Substring).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\obj\Debug\net5.0\AramaAlgoritmasi(Substring).AssemblyInfoInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\obj\Debug\net5.0\AramaAlgoritmasi(Substring).AssemblyInfo.cs
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\obj\Debug\net5.0\AramaAlgoritmasi(Substring).csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\obj\Debug\net5.0\AramaAlgoritmasi(Substring).dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\obj\Debug\net5.0\refint\AramaAlgoritmasi(Substring).dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\obj\Debug\net5.0\AramaAlgoritmasi(Substring).pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\obj\Debug\net5.0\AramaAlgoritmasi(Substring).genruntimeconfig.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\AramaAlgoritmasi(Substring)\obj\Debug\net5.0\ref\AramaAlgoritmasi(Substring).dll
