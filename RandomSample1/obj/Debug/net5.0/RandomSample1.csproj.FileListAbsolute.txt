@@ -1,0 +1,16 @@
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\bin\Debug\net5.0\RandomSample1.exe
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\bin\Debug\net5.0\RandomSample1.deps.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\bin\Debug\net5.0\RandomSample1.runtimeconfig.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\bin\Debug\net5.0\RandomSample1.runtimeconfig.dev.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\bin\Debug\net5.0\RandomSample1.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\bin\Debug\net5.0\RandomSample1.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\obj\Debug\net5.0\RandomSample1.csproj.AssemblyReference.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\obj\Debug\net5.0\RandomSample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\obj\Debug\net5.0\RandomSample1.AssemblyInfoInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\obj\Debug\net5.0\RandomSample1.AssemblyInfo.cs
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\obj\Debug\net5.0\RandomSample1.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\obj\Debug\net5.0\RandomSample1.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\obj\Debug\net5.0\refint\RandomSample1.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\obj\Debug\net5.0\RandomSample1.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\obj\Debug\net5.0\RandomSample1.genruntimeconfig.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\RandomSample1\obj\Debug\net5.0\ref\RandomSample1.dll
