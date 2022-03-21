@@ -1,0 +1,16 @@
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\bin\Debug\net5.0\RastgeleİsimUretme.exe
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\bin\Debug\net5.0\RastgeleİsimUretme.deps.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\bin\Debug\net5.0\RastgeleİsimUretme.runtimeconfig.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\bin\Debug\net5.0\RastgeleİsimUretme.runtimeconfig.dev.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\bin\Debug\net5.0\RastgeleİsimUretme.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\bin\Debug\net5.0\RastgeleİsimUretme.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\obj\Debug\net5.0\RastgeleİsimUretme.csproj.AssemblyReference.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\obj\Debug\net5.0\RastgeleİsimUretme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\obj\Debug\net5.0\RastgeleİsimUretme.AssemblyInfoInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\obj\Debug\net5.0\RastgeleİsimUretme.AssemblyInfo.cs
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\obj\Debug\net5.0\RastgeleİsimUretme.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\obj\Debug\net5.0\RastgeleİsimUretme.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\obj\Debug\net5.0\refint\RastgeleİsimUretme.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\obj\Debug\net5.0\RastgeleİsimUretme.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\obj\Debug\net5.0\RastgeleİsimUretme.genruntimeconfig.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\RastgeleİsimUretme\obj\Debug\net5.0\ref\RastgeleİsimUretme.dll
