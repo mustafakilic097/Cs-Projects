@@ -1,0 +1,16 @@
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\obj\Debug\net5.0\StringYerDegistirme.csproj.AssemblyReference.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\obj\Debug\net5.0\StringYerDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\obj\Debug\net5.0\StringYerDegistirme.AssemblyInfoInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\obj\Debug\net5.0\StringYerDegistirme.AssemblyInfo.cs
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\obj\Debug\net5.0\StringYerDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\bin\Debug\net5.0\StringYerDegistirme.exe
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\bin\Debug\net5.0\StringYerDegistirme.deps.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\bin\Debug\net5.0\StringYerDegistirme.runtimeconfig.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\bin\Debug\net5.0\StringYerDegistirme.runtimeconfig.dev.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\bin\Debug\net5.0\StringYerDegistirme.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\bin\Debug\net5.0\StringYerDegistirme.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\obj\Debug\net5.0\StringYerDegistirme.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\obj\Debug\net5.0\refint\StringYerDegistirme.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\obj\Debug\net5.0\StringYerDegistirme.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\obj\Debug\net5.0\StringYerDegistirme.genruntimeconfig.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\StringYerDegistirme\obj\Debug\net5.0\ref\StringYerDegistirme.dll
