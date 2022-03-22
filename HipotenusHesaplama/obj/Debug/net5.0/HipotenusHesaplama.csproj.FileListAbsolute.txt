@@ -1,0 +1,16 @@
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\bin\Debug\net5.0\HipotenusHesaplama.exe
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\bin\Debug\net5.0\HipotenusHesaplama.deps.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\bin\Debug\net5.0\HipotenusHesaplama.runtimeconfig.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\bin\Debug\net5.0\HipotenusHesaplama.runtimeconfig.dev.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\bin\Debug\net5.0\HipotenusHesaplama.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\bin\Debug\net5.0\HipotenusHesaplama.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\obj\Debug\net5.0\HipotenusHesaplama.csproj.AssemblyReference.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\obj\Debug\net5.0\HipotenusHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\obj\Debug\net5.0\HipotenusHesaplama.AssemblyInfoInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\obj\Debug\net5.0\HipotenusHesaplama.AssemblyInfo.cs
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\obj\Debug\net5.0\HipotenusHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\obj\Debug\net5.0\HipotenusHesaplama.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\obj\Debug\net5.0\refint\HipotenusHesaplama.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\obj\Debug\net5.0\HipotenusHesaplama.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\obj\Debug\net5.0\HipotenusHesaplama.genruntimeconfig.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\HipotenusHesaplama\obj\Debug\net5.0\ref\HipotenusHesaplama.dll
