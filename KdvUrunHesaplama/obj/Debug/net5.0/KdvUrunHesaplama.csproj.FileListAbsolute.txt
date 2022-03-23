@@ -1,0 +1,16 @@
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\bin\Debug\net5.0\KdvUrunHesaplama.exe
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\bin\Debug\net5.0\KdvUrunHesaplama.deps.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\bin\Debug\net5.0\KdvUrunHesaplama.runtimeconfig.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\bin\Debug\net5.0\KdvUrunHesaplama.runtimeconfig.dev.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\bin\Debug\net5.0\KdvUrunHesaplama.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\bin\Debug\net5.0\KdvUrunHesaplama.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\obj\Debug\net5.0\KdvUrunHesaplama.csproj.AssemblyReference.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\obj\Debug\net5.0\KdvUrunHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\obj\Debug\net5.0\KdvUrunHesaplama.AssemblyInfoInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\obj\Debug\net5.0\KdvUrunHesaplama.AssemblyInfo.cs
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\obj\Debug\net5.0\KdvUrunHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\obj\Debug\net5.0\KdvUrunHesaplama.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\obj\Debug\net5.0\refint\KdvUrunHesaplama.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\obj\Debug\net5.0\KdvUrunHesaplama.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\obj\Debug\net5.0\KdvUrunHesaplama.genruntimeconfig.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\KdvUrunHesaplama\obj\Debug\net5.0\ref\KdvUrunHesaplama.dll
