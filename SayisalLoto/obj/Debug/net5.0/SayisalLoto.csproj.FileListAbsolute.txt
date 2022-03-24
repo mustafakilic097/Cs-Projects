@@ -1,0 +1,16 @@
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\bin\Debug\net5.0\SayisalLoto.exe
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\bin\Debug\net5.0\SayisalLoto.deps.json
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\bin\Debug\net5.0\SayisalLoto.runtimeconfig.json
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\bin\Debug\net5.0\SayisalLoto.runtimeconfig.dev.json
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\bin\Debug\net5.0\SayisalLoto.dll
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\bin\Debug\net5.0\SayisalLoto.pdb
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\obj\Debug\net5.0\SayisalLoto.csproj.AssemblyReference.cache
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\obj\Debug\net5.0\SayisalLoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\obj\Debug\net5.0\SayisalLoto.AssemblyInfoInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\obj\Debug\net5.0\SayisalLoto.AssemblyInfo.cs
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\obj\Debug\net5.0\SayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\obj\Debug\net5.0\SayisalLoto.dll
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\obj\Debug\net5.0\refint\SayisalLoto.dll
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\obj\Debug\net5.0\SayisalLoto.pdb
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\obj\Debug\net5.0\SayisalLoto.genruntimeconfig.cache
+C:\Users\Mustafa-Lenovo\Desktop\Dosyalar\2.Sınıf\2.Dönem(BaharDönemi)\Nesne-Yönelimli-Programlama\SayisalLoto\obj\Debug\net5.0\ref\SayisalLoto.dll
