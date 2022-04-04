@@ -1,0 +1,16 @@
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\bin\Debug\net5.0\BolmeIsaretsiz.exe
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\bin\Debug\net5.0\BolmeIsaretsiz.deps.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\bin\Debug\net5.0\BolmeIsaretsiz.runtimeconfig.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\bin\Debug\net5.0\BolmeIsaretsiz.runtimeconfig.dev.json
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\bin\Debug\net5.0\BolmeIsaretsiz.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\bin\Debug\net5.0\BolmeIsaretsiz.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\obj\Debug\net5.0\BolmeIsaretsiz.csproj.AssemblyReference.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\obj\Debug\net5.0\BolmeIsaretsiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\obj\Debug\net5.0\BolmeIsaretsiz.AssemblyInfoInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\obj\Debug\net5.0\BolmeIsaretsiz.AssemblyInfo.cs
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\obj\Debug\net5.0\BolmeIsaretsiz.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\obj\Debug\net5.0\BolmeIsaretsiz.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\obj\Debug\net5.0\refint\BolmeIsaretsiz.dll
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\obj\Debug\net5.0\BolmeIsaretsiz.pdb
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\obj\Debug\net5.0\BolmeIsaretsiz.genruntimeconfig.cache
+C:\Users\Mustafa-Lenovo\Desktop\C#\BolmeIsaretsiz\obj\Debug\net5.0\ref\BolmeIsaretsiz.dll
