@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarStil", "BarStil.csproj", "{BED6831F-5518-4D39-AB65-F8D7C90BBB5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED6831F-5518-4D39-AB65-F8D7C90BBB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED6831F-5518-4D39-AB65-F8D7C90BBB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED6831F-5518-4D39-AB65-F8D7C90BBB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED6831F-5518-4D39-AB65-F8D7C90BBB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCC3B0E3-B565-406C-A2F2-2AAC404F0997}
+	EndGlobalSection
+EndGlobal
